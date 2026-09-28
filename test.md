@@ -1,0 +1,8 @@
+[link 1](https://link1.com)
+[link 2](#link2)
+[link 3](https://link3.com)
+[link 4](./link4.md)
+[link 5](/link5.md)
+[link 6](#link6)
+[link 7](/link7.md)
+[link 8](./link8.md)
